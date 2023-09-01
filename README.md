@@ -13,4 +13,4 @@
 3. estat 사이트 (http://www.estat.me/estat/eLearning/kr/eStatU/index.html)
 ```
 
-- 기타 문제 우려 시 minjunimm@gmail.com 으로 연락주시면 정정하겠습니다 🙂
+- 우려되는 이슈, 혹은 질문이 있을 시 minjunimm@gmail.com 으로 연락주시길 바랍니다. 🙂
